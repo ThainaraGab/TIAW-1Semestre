@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Poppins&family=Roboto&display=swap');
+
+.problema{
+    margin-left: 200px;
+    margin-right: auto;
+    width: 50em;
+}
+.problema2{
+    margin-right: 200px;
+}
+
+
+#title{
+    flex-direction: column;
+    line-height: 10px;
+    
+}
+
+li{
+    display: inline-block;
+    margin: 20px;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: #fca311;
+    transition: 0.3s all;
+}
+
+h1{
+    font-weight: 500;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    align-items: center;
+}
+
+h3{
+    font-size: 56px;
+    line-height: 10px;
+    font-family: 'Roboto';
+}
+
+span{
+    color: rgb(10, 10, 10);
+}
+
+p{
+    line-height: 20px;
+    max-width: 500px;
+    font-family: 'Roboto';
+}
+
+img{
+    width: 500px;
+    
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+
+form [type="submit"]{
+    height: 50px;
+    width: 50%;
+    background-color: #14213d;
+    color: white;
+    font-weight: bold;
+}
+form [type="submit"]:hover{
+    cursor: pointer;
+}
+
+input{
+    margin-top: 20px;
+    height: 20px;
+    padding: 15px;
+    border-radius: 20px;
+    border: none;
+    font-size: 15px;
+}
