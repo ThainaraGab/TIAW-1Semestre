@@ -1,18 +1,15 @@
-# Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+# SHELF-TECH 💻
+
+O blog Shelf-Tech foi criado para contribuir com a educação online sobre assuntos relacionados a tecnologia e informática, ao mesmo tempo incentivar nossos 
+usúarios mais experientes a compartilhar suas habilidades e conhecimentos.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+- [Abner Oliveira](https://github.com/ifxaamorim)
+- [Eduardo Felipe](https://github.com/EduardoFelipe02)
+- [Thainara Vieira](https://github.com/ThainaraGab)
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
-
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+- Humberto Nigri
+- Gleisson Amaral
